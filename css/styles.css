@@ -40,7 +40,7 @@ a.nav-link:hover{
         padding-top: 100px !important;
 }
 .new-products{
-        padding-top: 80px !important;
+        padding-top: 80px;
 }
 
 .carousel-item {
